@@ -1,6 +1,6 @@
 ---
 layout: category_index
-title: Writing
+title: Experience
 permalink: /Experience/
 category_name: experience
 
