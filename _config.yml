@@ -4,7 +4,7 @@ social_link: LinkedIn
 social_username: 'https://www.linkedin.com/in/nawfal-zainuddin-070866195/'
 github_repo: ''
 github_username: nawfalz
-theme_color: black
+theme_color: dark
 remote_theme: internet-de-france/swiss
 baseurl: /concomitant_pancake
 defaults:
